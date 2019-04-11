@@ -20,7 +20,7 @@ With the following parameters I'm able to get **~97% correct classifications or 
 
 |Setting||
 |-|-|
-|Number of hidden-nodes:|200 is a sweet spot, more don't bring any improvements|
+|Number of hidden-nodes:|200 is the maximum that improves the network|
 |Learning rate:|I tested values from 0.01 to 0.3 and found that 0.1 is roughly the optimum|
 |Epochs:|5 seems like the optimum, higher values lead to overfitting|
 
