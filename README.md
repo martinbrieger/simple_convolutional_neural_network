@@ -32,6 +32,7 @@ With the following parameters I'm able to get **~97% correct classifications or 
 |3_neural_network+mnist_data+scorecard.ipynb|+ scorecard|
 |4_neural_network+full_dataset.ipynb|+ full database **(runs)**|
 |5_neural_network+epochs.ipynb|+ epochs **(final version, runs)**|
+|5_neural_network_final.py|↳ final .py version|
 
 ## Code
 ```python
